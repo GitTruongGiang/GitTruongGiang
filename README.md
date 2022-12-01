@@ -1,8 +1,8 @@
 # Hi I'm Giang 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giang-coder/)](https://www.linkedin.com/in/giang-coder/)
+[![Linkedin Badge](https://img.shields.io/badge/-NguyenTruongGiang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giang-coder/)](https://www.linkedin.com/in/giang-coder/)
 [![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/giang_nguyen.99/)](https://www.instagram.com/giang_nguyen.99/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nguyentruonggiang99hb@gmail.com)](mailto:nguyentruonggiang99hb@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nguyentruonggiang99hb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nguyentruonggiang99hb@gmail.com)](mailto:nguyentruonggiang99hb@gmail.com)
 
 <h3>Things I code with</h3>
 <p>
