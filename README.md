@@ -34,4 +34,4 @@
 
 </p>
 
-Welcome to my personal profile! I am a student, part-time programmer. I just graduated from @CoderSchool. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/giang-coder/)!
+Welcome to my personal profile! Currently I'm working for Medlang Fanatic. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/giang-coder/)!
