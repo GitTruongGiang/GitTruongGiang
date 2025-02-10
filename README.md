@@ -2,7 +2,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a front end application developer from 」
+    「 I am a fullstack web application developer from 」
     <br>
     <br>
   </samp>
