@@ -34,4 +34,16 @@
 
 </p>
 
+<p>
+  I am Giang, a diligent software developer with a unique background as a European chef. Currently, I strive every day in a career that isn't easy for a manual laborer without a university degree. With 2 years of experience as a Full Stack web developer at the startup Medlangfanatic, I have played a key role throughout the development process.
+
+During those 2 years, I have self-learned and accumulated a wealth of experience, showcasing my strong software skills. I have developed medical education software with AI voice assistance, supporting the learning of students and healthcare professionals. My passion for continuous learning and deep interest in working on high-performance, large-scale projects drive my career goal of joining a company that offers challenging opportunities to enhance my skills and contribute to its success.
+
+With my diverse background, I am an ideal candidate for roles that require working with multiple people on high-performance projects. I welcome new opportunities, learning experiences, and connections with professionals in the tech industry. Please feel free to contact me via LinkedIn or at nguyentruonggiang99hb@gmail.com. I look forward to exploring the possibilities where I can make a significant impact and further develop my expertise.
+
+Programming languages: Javascript, TypeScript, HTML/CSS
+Frameworks/Libraries & Databases: React.js, Next.js, Express, MongoDB, Node.js, (API Gateway, DynamoDB), GIT, Bootstrap, Tailwind, Redux
+Skills: Data structures and algorithms, Object-oriented programming, Database management systems, Debugging, Problem-solving, Agile development
+</p>
+
 Welcome to my personal profile! Currently I'm working for Medlang Fanatic. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/giang-coder/)!
